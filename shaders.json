@@ -1,0 +1,3642 @@
+[
+  {
+    "ItemName": "Bloodline Feud",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3919943498",
+    "DyeIndex": 12499
+  },
+  {
+    "ItemName": "Lion's Pride",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2179339272",
+    "DyeIndex": 14445
+  },
+  {
+    "ItemName": "Reef Regalia",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2179339274",
+    "DyeIndex": 14475
+  },
+  {
+    "ItemName": "Hazard Pay",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2179339273",
+    "DyeIndex": 14460
+  },
+  {
+    "ItemName": "Wayfarer's Guise",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2179339275",
+    "DyeIndex": 14490
+  },
+  {
+    "ItemName": "Cirrus Whisper",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "215102895",
+    "DyeIndex": 19445
+  },
+  {
+    "ItemName": "War Cult Scheme",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2296172971",
+    "DyeIndex": 6239
+  },
+  {
+    "ItemName": "New Age Black Armory",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3650581584",
+    "DyeIndex": 8256
+  },
+  {
+    "ItemName": "Refurbished Black Armory",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "3650581585",
+    "DyeIndex": 8271
+  },
+  {
+    "ItemName": "House of Meyrin",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3650581587",
+    "DyeIndex": 8301
+  },
+  {
+    "ItemName": "Rasmussen Clan",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3650581586",
+    "DyeIndex": 8286
+  },
+  {
+    "ItemName": "Bergusian Night",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3650581589",
+    "DyeIndex": 8331
+  },
+  {
+    "ItemName": "Satou Tribe",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3650581588",
+    "DyeIndex": 8316
+  },
+  {
+    "ItemName": "Midnight Smith",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2557722678",
+    "DyeIndex": 8346
+  },
+  {
+    "ItemName": "Iron Bone",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1448664466",
+    "DyeIndex": 10196
+  },
+  {
+    "ItemName": "Iron Gold",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1448664467",
+    "DyeIndex": 10211
+  },
+  {
+    "ItemName": "SUROS Tone",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "2307426896",
+    "DyeIndex": 2171
+  },
+  {
+    "ItemName": "SUROS Modular",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "2307426898",
+    "DyeIndex": 2201
+  },
+  {
+    "ItemName": "Ancient Wisdom",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "983194593",
+    "DyeIndex": 17006
+  },
+  {
+    "ItemName": "Sundered Flesh",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "983194592",
+    "DyeIndex": 16991
+  },
+  {
+    "ItemName": "Mind's Eye",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "997314998",
+    "DyeIndex": 15563
+  },
+  {
+    "ItemName": "Royal Dye",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "997314999",
+    "DyeIndex": 15548
+  },
+  {
+    "ItemName": "Up for Grabs",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2217042834",
+    "DyeIndex": 13473
+  },
+  {
+    "ItemName": "Iron to Steel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3449099425",
+    "DyeIndex": 6263
+  },
+  {
+    "ItemName": "Ensilvered Snare",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2716058777",
+    "DyeIndex": 15167
+  },
+  {
+    "ItemName": "Twilight Keepsake",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1559478790",
+    "DyeIndex": 19460
+  },
+  {
+    "ItemName": "Tangerine Gloss",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4173467416",
+    "DyeIndex": 10286
+  },
+  {
+    "ItemName": "Pomegranate Gloss",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4173467417",
+    "DyeIndex": 10301
+  },
+  {
+    "ItemName": "Duskbloom",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1902811978",
+    "DyeIndex": 17051
+  },
+  {
+    "ItemName": "Rime Keepsake",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2117628185",
+    "DyeIndex": 20350
+  },
+  {
+    "ItemName": "Dawning Élan",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3214073080",
+    "DyeIndex": 20110
+  },
+  {
+    "ItemName": "Dawning Mirth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3214073081",
+    "DyeIndex": 20125
+  },
+  {
+    "ItemName": "Warrior's Iron",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "885144427",
+    "DyeIndex": 20290
+  },
+  {
+    "ItemName": "Horizons Beyond",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "51755993",
+    "DyeIndex": 12988
+  },
+  {
+    "ItemName": "Throne of Soot",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "51755992",
+    "DyeIndex": 12973
+  },
+  {
+    "ItemName": "Spectral Indigo",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3195867807",
+    "DyeIndex": 16337
+  },
+  {
+    "ItemName": "Graceful Phantom",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3195867806",
+    "DyeIndex": 16322
+  },
+  {
+    "ItemName": "Devil in the Details",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "769099721",
+    "DyeIndex": 8391
+  },
+  {
+    "ItemName": "Coronal Bloom",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2132252935",
+    "DyeIndex": 18397
+  },
+  {
+    "ItemName": "Powder Blue (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2657932152",
+    "DyeIndex": 2651
+  },
+  {
+    "ItemName": "Powder Blue",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2657932159",
+    "DyeIndex": 2636
+  },
+  {
+    "ItemName": "Desert Matte",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2657932156",
+    "DyeIndex": 2591
+  },
+  {
+    "ItemName": "Desert Matte (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2657932157",
+    "DyeIndex": 2606
+  },
+  {
+    "ItemName": "NotFound-47D2795B",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2657932153",
+    "DyeIndex": 2666
+  },
+  {
+    "ItemName": "NotFound-C27F4589",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2657932158",
+    "DyeIndex": 2621
+  },
+  {
+    "ItemName": "New Pacific Rush (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1051938198",
+    "DyeIndex": 2516
+  },
+  {
+    "ItemName": "NotFound-47D2795B",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1051938194",
+    "DyeIndex": 2576
+  },
+  {
+    "ItemName": "New Pacific Sink",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1051938196",
+    "DyeIndex": 2546
+  },
+  {
+    "ItemName": "NotFound-C27F4589",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1051938197",
+    "DyeIndex": 2531
+  },
+  {
+    "ItemName": "New Pacific Sink (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1051938195",
+    "DyeIndex": 2561
+  },
+  {
+    "ItemName": "New Pacific Rush",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1051938199",
+    "DyeIndex": 2501
+  },
+  {
+    "ItemName": "Watcher's Shade",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3714667144",
+    "DyeIndex": 4933
+  },
+  {
+    "ItemName": "Champion Keepsake",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3515978520",
+    "DyeIndex": 20542
+  },
+  {
+    "ItemName": "Honors of the Nine",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "16277432",
+    "DyeIndex": 1511
+  },
+  {
+    "ItemName": "Gift of the Nine",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "16277433",
+    "DyeIndex": 1496
+  },
+  {
+    "ItemName": "Glorious Patina",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1300514375",
+    "DyeIndex": 18698
+  },
+  {
+    "ItemName": "Gambit Nephrite",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "776125535",
+    "DyeIndex": 16355
+  },
+  {
+    "ItemName": "Trials Jasper",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3854366006",
+    "DyeIndex": 16388
+  },
+  {
+    "ItemName": "Bloodmane",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2716279146",
+    "DyeIndex": 13123
+  },
+  {
+    "ItemName": "Nougat Delight",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2716279147",
+    "DyeIndex": 13138
+  },
+  {
+    "ItemName": "Shaded Envy",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1720543205",
+    "DyeIndex": 15578
+  },
+  {
+    "ItemName": "Rusted Coin",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2639800744",
+    "DyeIndex": 16946
+  },
+  {
+    "ItemName": "Dusted Tome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2639800745",
+    "DyeIndex": 16931
+  },
+  {
+    "ItemName": "Ossified Carving",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3387248782",
+    "DyeIndex": 19199
+  },
+  {
+    "ItemName": "Organic Adornment",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3387248783",
+    "DyeIndex": 19214
+  },
+  {
+    "ItemName": "Queensgrace",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3761187797",
+    "DyeIndex": 14535
+  },
+  {
+    "ItemName": "Amrita's Dream",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3761187796",
+    "DyeIndex": 14550
+  },
+  {
+    "ItemName": "Iron Wolf",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "864505614",
+    "DyeIndex": 1451
+  },
+  {
+    "ItemName": "Iron Battalion",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "864505615",
+    "DyeIndex": 1436
+  },
+  {
+    "ItemName": "Vanguard Marshal",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1514974385",
+    "DyeIndex": 13018
+  },
+  {
+    "ItemName": "Ancient Believer",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3996862462",
+    "DyeIndex": 10579
+  },
+  {
+    "ItemName": "Ancient Defender",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3996862463",
+    "DyeIndex": 10594
+  },
+  {
+    "ItemName": "War Cult Rain",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1045633725",
+    "DyeIndex": 1841
+  },
+  {
+    "ItemName": "War Cult Camo",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1045633727",
+    "DyeIndex": 1871
+  },
+  {
+    "ItemName": "Charred Plumage",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2461541398",
+    "DyeIndex": 12589
+  },
+  {
+    "ItemName": "Arctic Dreamscape",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "235397502",
+    "DyeIndex": 6089
+  },
+  {
+    "ItemName": "Bray Innovation",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "235397503",
+    "DyeIndex": 6104
+  },
+  {
+    "ItemName": "The Mad Monk",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "235397500",
+    "DyeIndex": 6119
+  },
+  {
+    "ItemName": "Gambit Suede",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1335424933",
+    "DyeIndex": 7097
+  },
+  {
+    "ItemName": "Gambit Chrome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1335424934",
+    "DyeIndex": 7082
+  },
+  {
+    "ItemName": "Gambit Leather",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1335424935",
+    "DyeIndex": 7067
+  },
+  {
+    "ItemName": "Technofusion",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2944573668",
+    "DyeIndex": 14172
+  },
+  {
+    "ItemName": "Ritualism",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2944573669",
+    "DyeIndex": 14187
+  },
+  {
+    "ItemName": "Divinity's Caress",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1782474707",
+    "DyeIndex": 15608
+  },
+  {
+    "ItemName": "Echoed Anger",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1782474706",
+    "DyeIndex": 15593
+  },
+  {
+    "ItemName": "Corrective // Protective",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2173688422",
+    "DyeIndex": 14247
+  },
+  {
+    "ItemName": "Bitterpearl",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2173688423",
+    "DyeIndex": 14232
+  },
+  {
+    "ItemName": "Dreamtide Daybreak",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3683636137",
+    "DyeIndex": 18232
+  },
+  {
+    "ItemName": "Queensguard Valor",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3683636136",
+    "DyeIndex": 18217
+  },
+  {
+    "ItemName": "Forbidden Wish",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3304608321",
+    "DyeIndex": 19307
+  },
+  {
+    "ItemName": "Melting Point",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1437995943",
+    "DyeIndex": 18821
+  },
+  {
+    "ItemName": "Princely Presence",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288072",
+    "DyeIndex": 20170
+  },
+  {
+    "ItemName": "Deceptive Markings",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288074",
+    "DyeIndex": 20140
+  },
+  {
+    "ItemName": "Neon Splash",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288075",
+    "DyeIndex": 20155
+  },
+  {
+    "ItemName": "Cloudstriding Couture",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288076",
+    "DyeIndex": 20230
+  },
+  {
+    "ItemName": "Spark of Joy",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288073",
+    "DyeIndex": 20185
+  },
+  {
+    "ItemName": "Ablaze",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288077",
+    "DyeIndex": 20245
+  },
+  {
+    "ItemName": "Long Journeys",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288078",
+    "DyeIndex": 20200
+  },
+  {
+    "ItemName": "Minimalism",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "965288079",
+    "DyeIndex": 20215
+  },
+  {
+    "ItemName": "Night Vision",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2292674831",
+    "DyeIndex": 19232
+  },
+  {
+    "ItemName": "War Cult Endgame",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "730976676",
+    "DyeIndex": 4638
+  },
+  {
+    "ItemName": "Oxidized Lead",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "56137738",
+    "DyeIndex": 18196
+  },
+  {
+    "ItemName": "Opaline Shatter",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "56137739",
+    "DyeIndex": 18181
+  },
+  {
+    "ItemName": "Bright Warning",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3089508707",
+    "DyeIndex": 12514
+  },
+  {
+    "ItemName": "Shattered Sky",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3089508706",
+    "DyeIndex": 12529
+  },
+  {
+    "ItemName": "Tortured Ivy",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "572069851",
+    "DyeIndex": 16976
+  },
+  {
+    "ItemName": "Cryptic Insignia",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2357830696",
+    "DyeIndex": 12454
+  },
+  {
+    "ItemName": "Cryptic Legacy",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2357830697",
+    "DyeIndex": 12439
+  },
+  {
+    "ItemName": "Resilient Laurel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3328839466",
+    "DyeIndex": 9032
+  },
+  {
+    "ItemName": "Aniline Shock",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3328839467",
+    "DyeIndex": 9017
+  },
+  {
+    "ItemName": "Archeoskin",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "418753772",
+    "DyeIndex": 14430
+  },
+  {
+    "ItemName": "Reanimated Verve",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "418753773",
+    "DyeIndex": 14415
+  },
+  {
+    "ItemName": "Echoes of Io (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1489178152",
+    "DyeIndex": 2336
+  },
+  {
+    "ItemName": "Echoes of Io",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1489178153",
+    "DyeIndex": 2321
+  },
+  {
+    "ItemName": "NotFound-C27F4589",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1489178155",
+    "DyeIndex": 2351
+  },
+  {
+    "ItemName": "Flowers of Io",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1489178154",
+    "DyeIndex": 2366
+  },
+  {
+    "ItemName": "Flowers of Io (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1489178157",
+    "DyeIndex": 2381
+  },
+  {
+    "ItemName": "NotFound-47D2795B",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1489178156",
+    "DyeIndex": 2396
+  },
+  {
+    "ItemName": "Neon Jungle",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3485741042",
+    "DyeIndex": 18665
+  },
+  {
+    "ItemName": "First Frost",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3448612594",
+    "DyeIndex": 10624
+  },
+  {
+    "ItemName": "Night's Chill",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3448612595",
+    "DyeIndex": 10609
+  },
+  {
+    "ItemName": "Iron Strength",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "231533811",
+    "DyeIndex": 8406
+  },
+  {
+    "ItemName": "Fighting Colors",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4095784502",
+    "DyeIndex": 20275
+  },
+  {
+    "ItemName": "Old Growth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2926661061",
+    "DyeIndex": 14217
+  },
+  {
+    "ItemName": "Scintillant Trajectory",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1781477733",
+    "DyeIndex": 18253
+  },
+  {
+    "ItemName": "Vanguard Constancy",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2410801793",
+    "DyeIndex": 18307
+  },
+  {
+    "ItemName": "GENOTYPENULL-ZERO",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3286479728",
+    "DyeIndex": 6293
+  },
+  {
+    "ItemName": "Gambit Jadestone",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2173837803",
+    "DyeIndex": 11212
+  },
+  {
+    "ItemName": "Carminica",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2378905788",
+    "DyeIndex": 13003
+  },
+  {
+    "ItemName": "Tyrian Abyss",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4103741400",
+    "DyeIndex": 16241
+  },
+  {
+    "ItemName": "Irradiant Charoite",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4103741403",
+    "DyeIndex": 16256
+  },
+  {
+    "ItemName": "Argent Teratorn",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4103741401",
+    "DyeIndex": 16226
+  },
+  {
+    "ItemName": "Tidesmoke",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4103741402",
+    "DyeIndex": 16271
+  },
+  {
+    "ItemName": "New Monarchy Succession",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3366113619",
+    "DyeIndex": 4713
+  },
+  {
+    "ItemName": "Dark Omolon",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4115783782",
+    "DyeIndex": 12958
+  },
+  {
+    "ItemName": "Envious Touch",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4115783783",
+    "DyeIndex": 12943
+  },
+  {
+    "ItemName": "Dawning Festiveness",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1844125034",
+    "DyeIndex": 4888
+  },
+  {
+    "ItemName": "Boreal Defiant",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662832",
+    "DyeIndex": 1571
+  },
+  {
+    "ItemName": "NotFound-8B2FD86A",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662833",
+    "DyeIndex": 1586
+  },
+  {
+    "ItemName": "NotFound-C27F4589",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662834",
+    "DyeIndex": 1631
+  },
+  {
+    "ItemName": "Maroon Moon",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662835",
+    "DyeIndex": 1646
+  },
+  {
+    "ItemName": "NotFound-8435C542",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662836",
+    "DyeIndex": 1661
+  },
+  {
+    "ItemName": "NotFound-47D2795B",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662837",
+    "DyeIndex": 1676
+  },
+  {
+    "ItemName": "NotFound-1947E5FD",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662839",
+    "DyeIndex": 1706
+  },
+  {
+    "ItemName": "NotFound-A0BFB46B",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662840",
+    "DyeIndex": 1721
+  },
+  {
+    "ItemName": "Tidal Hope",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662838",
+    "DyeIndex": 1691
+  },
+  {
+    "ItemName": "Dusk Mine",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "2926662841",
+    "DyeIndex": 1736
+  },
+  {
+    "ItemName": "Seraphim Cloak",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2255551160",
+    "DyeIndex": 17392
+  },
+  {
+    "ItemName": "Carrhae Black",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2255551161",
+    "DyeIndex": 17407
+  },
+  {
+    "ItemName": "Shed Carapace",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "634576125",
+    "DyeIndex": 19277
+  },
+  {
+    "ItemName": "Warped Rachis",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "634576124",
+    "DyeIndex": 19292
+  },
+  {
+    "ItemName": "Jungle Viper",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3818755490",
+    "DyeIndex": 10804
+  },
+  {
+    "ItemName": "Oiled Gunmetal",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3818755492",
+    "DyeIndex": 10774
+  },
+  {
+    "ItemName": "Iridescent Coral",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3818755493",
+    "DyeIndex": 10789
+  },
+  {
+    "ItemName": "Polished Sea Stone",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3818755491",
+    "DyeIndex": 10819
+  },
+  {
+    "ItemName": "Bruised Blush",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3818755494",
+    "DyeIndex": 10744
+  },
+  {
+    "ItemName": "Chitin Slate",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3818755495",
+    "DyeIndex": 10759
+  },
+  {
+    "ItemName": "Vitrified Chronology",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "980059630",
+    "DyeIndex": 11257
+  },
+  {
+    "ItemName": "Vitrified Duality",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "980059631",
+    "DyeIndex": 11242
+  },
+  {
+    "ItemName": "Dead Orbit Vision",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "996259007",
+    "DyeIndex": 6059
+  },
+  {
+    "ItemName": "Fetid Copper",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "165021790",
+    "DyeIndex": 14505
+  },
+  {
+    "ItemName": "Blue Geometry",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "4006192308",
+    "DyeIndex": 1556
+  },
+  {
+    "ItemName": "Atlantis Wash",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "4006192310",
+    "DyeIndex": 1526
+  },
+  {
+    "ItemName": "Avalon Teal",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "4006192311",
+    "DyeIndex": 1541
+  },
+  {
+    "ItemName": "Emerald Splash",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2102881346",
+    "DyeIndex": 16961
+  },
+  {
+    "ItemName": "Iris Gossamer",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1126354272",
+    "DyeIndex": 16307
+  },
+  {
+    "ItemName": "Regal Daring",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1126354273",
+    "DyeIndex": 16292
+  },
+  {
+    "ItemName": "Vanguard Stratosphere",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2058800852",
+    "DyeIndex": 10714
+  },
+  {
+    "ItemName": "Vanguard Angelos",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2058800853",
+    "DyeIndex": 10729
+  },
+  {
+    "ItemName": "Cayde's Duds",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "89332041",
+    "DyeIndex": 7208
+  },
+  {
+    "ItemName": "Battle Tempered",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "248670379",
+    "DyeIndex": 18683
+  },
+  {
+    "ItemName": "Kairos Gold",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3042066430",
+    "DyeIndex": 4668
+  },
+  {
+    "ItemName": "Kairos Black",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3042066428",
+    "DyeIndex": 4698
+  },
+  {
+    "ItemName": "Kairos Bronze",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3042066431",
+    "DyeIndex": 4683
+  },
+  {
+    "ItemName": "Crucible Peppermint",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2811768631",
+    "DyeIndex": 11935
+  },
+  {
+    "ItemName": "Dragon's Teeth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2970605152",
+    "DyeIndex": 19262
+  },
+  {
+    "ItemName": "Shattered Sinew",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "557384112",
+    "DyeIndex": 15062
+  },
+  {
+    "ItemName": "Smudgepot Bruise",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "557384113",
+    "DyeIndex": 15047
+  },
+  {
+    "ItemName": "Mystophosphor",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "557384115",
+    "DyeIndex": 15077
+  },
+  {
+    "ItemName": "Burnished Reed",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "557384114",
+    "DyeIndex": 15092
+  },
+  {
+    "ItemName": "Marble Effigy",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2532730764",
+    "DyeIndex": 12409
+  },
+  {
+    "ItemName": "Cracklebrass",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2532730765",
+    "DyeIndex": 12424
+  },
+  {
+    "ItemName": "Vizier Regalia",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "647195977",
+    "DyeIndex": 13443
+  },
+  {
+    "ItemName": "Dawning Festiveness",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3800267413",
+    "DyeIndex": 4888
+  },
+  {
+    "ItemName": "Dawning Warmth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3800267412",
+    "DyeIndex": 4873
+  },
+  {
+    "ItemName": "Dawning Brilliance",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3800267414",
+    "DyeIndex": 4843
+  },
+  {
+    "ItemName": "Dawning Hope",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3800267415",
+    "DyeIndex": 4858
+  },
+  {
+    "ItemName": "Pole Position",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2760449282",
+    "DyeIndex": 15683
+  },
+  {
+    "ItemName": "Copper and Blood",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1182982130",
+    "DyeIndex": 7277
+  },
+  {
+    "ItemName": "Metallic Sunrise",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1182982129",
+    "DyeIndex": 7232
+  },
+  {
+    "ItemName": "Metallic Sunset",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1182982128",
+    "DyeIndex": 7247
+  },
+  {
+    "ItemName": "Clouds at Sea",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1182982131",
+    "DyeIndex": 7262
+  },
+  {
+    "ItemName": "Crucible Prestige",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3603801350",
+    "DyeIndex": 11347
+  },
+  {
+    "ItemName": "Vanguard Flashfire",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4286955050",
+    "DyeIndex": 11950
+  },
+  {
+    "ItemName": "Dreaming Spectrum",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3668669364",
+    "DyeIndex": 7142
+  },
+  {
+    "ItemName": "Dreaming Cast",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3668669365",
+    "DyeIndex": 7127
+  },
+  {
+    "ItemName": "Iron Oxide",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3340102520",
+    "DyeIndex": 10564
+  },
+  {
+    "ItemName": "Iron Mossbone",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3340102521",
+    "DyeIndex": 10549
+  },
+  {
+    "ItemName": "Queen's Colors",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2641682052",
+    "DyeIndex": 15704
+  },
+  {
+    "ItemName": "Magical Transformation",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3586026952",
+    "DyeIndex": 19415
+  },
+  {
+    "ItemName": "Celestial Ties",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4198291900",
+    "DyeIndex": 14625
+  },
+  {
+    "ItemName": "Terrachroma",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4198291901",
+    "DyeIndex": 14640
+  },
+  {
+    "ItemName": "Mantle of Duty",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3328204877",
+    "DyeIndex": 14142
+  },
+  {
+    "ItemName": "Wicked Overgrowth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "193842215",
+    "DyeIndex": 14520
+  },
+  {
+    "ItemName": "Iron Countershade",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "249893830",
+    "DyeIndex": 17437
+  },
+  {
+    "ItemName": "Velvet Intention",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2980357720",
+    "DyeIndex": 18370
+  },
+  {
+    "ItemName": "Springtide Faint",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2980357721",
+    "DyeIndex": 18355
+  },
+  {
+    "ItemName": "Ego Malign",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2980357722",
+    "DyeIndex": 18340
+  },
+  {
+    "ItemName": "Erebos Glance",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2980357723",
+    "DyeIndex": 18325
+  },
+  {
+    "ItemName": "Bonemeal Loam",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3856680795",
+    "DyeIndex": 12394
+  },
+  {
+    "ItemName": "Vanguard Unity",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1400453406",
+    "DyeIndex": 6074
+  },
+  {
+    "ItemName": "Dawning Warmth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3866715933",
+    "DyeIndex": 4873
+  },
+  {
+    "ItemName": "New Monarchy Allegiance",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2931044502",
+    "DyeIndex": 6251
+  },
+  {
+    "ItemName": "Vanguard Burnished Steel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2523776412",
+    "DyeIndex": 10271
+  },
+  {
+    "ItemName": "Vanguard Steel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2523776413",
+    "DyeIndex": 10256
+  },
+  {
+    "ItemName": "Iron Lapis",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "987236624",
+    "DyeIndex": 16370
+  },
+  {
+    "ItemName": "Flower Child",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2838582257",
+    "DyeIndex": 16901
+  },
+  {
+    "ItemName": "Angel's Gleam",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2838582256",
+    "DyeIndex": 16916
+  },
+  {
+    "ItemName": "Dawning Celebration",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2118730408",
+    "DyeIndex": 11392
+  },
+  {
+    "ItemName": "Dawning Tranquility",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2118730409",
+    "DyeIndex": 11377
+  },
+  {
+    "ItemName": "Vanguard Distinction",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1453926847",
+    "DyeIndex": 16421
+  },
+  {
+    "ItemName": "Golden Empire",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3841416152",
+    "DyeIndex": 10041
+  },
+  {
+    "ItemName": "Shadow Gilt",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3841416154",
+    "DyeIndex": 10011
+  },
+  {
+    "ItemName": "Goldleaf",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3841416153",
+    "DyeIndex": 10056
+  },
+  {
+    "ItemName": "Cinderchar",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3841416155",
+    "DyeIndex": 10026
+  },
+  {
+    "ItemName": "Cognition of the Nine",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3682795607",
+    "DyeIndex": 6275
+  },
+  {
+    "ItemName": "Ruin Wreath",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2590008185",
+    "DyeIndex": 12913
+  },
+  {
+    "ItemName": "Vanguard Divide",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2788911997",
+    "DyeIndex": 7427
+  },
+  {
+    "ItemName": "Vanguard Metallic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2788911998",
+    "DyeIndex": 7412
+  },
+  {
+    "ItemName": "Vanguard Veteran",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "2788911999",
+    "DyeIndex": 7397
+  },
+  {
+    "ItemName": "Blue Steel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2653012760",
+    "DyeIndex": 20641
+  },
+  {
+    "ItemName": "Superblack",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2653012761",
+    "DyeIndex": 20626
+  },
+  {
+    "ItemName": "Seven Sisters",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1854244374",
+    "DyeIndex": 13488
+  },
+  {
+    "ItemName": "Abyssinian Gold",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1854244375",
+    "DyeIndex": 13503
+  },
+  {
+    "ItemName": "Conflagrate",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3684946776",
+    "DyeIndex": 14157
+  },
+  {
+    "ItemName": "Champion Keepsake",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3510413604",
+    "DyeIndex": 17512
+  },
+  {
+    "ItemName": "Mercurian Sunrise",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2395477994",
+    "DyeIndex": 4803
+  },
+  {
+    "ItemName": "Precursor Vex Chrome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2395477996",
+    "DyeIndex": 4773
+  },
+  {
+    "ItemName": "Desert of Gold",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2395477997",
+    "DyeIndex": 4788
+  },
+  {
+    "ItemName": "Descendant Vex Chrome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2395477998",
+    "DyeIndex": 4743
+  },
+  {
+    "ItemName": "Mercury Vex Chrome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2395477999",
+    "DyeIndex": 4758
+  },
+  {
+    "ItemName": "Vanguard Unyielding",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "274843196",
+    "DyeIndex": 8376
+  },
+  {
+    "ItemName": "Ironwood",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3784292658",
+    "DyeIndex": 4653
+  },
+  {
+    "ItemName": "VEIST Poison",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "346878930",
+    "DyeIndex": 2021
+  },
+  {
+    "ItemName": "VEIST Fieldscale",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "346878928",
+    "DyeIndex": 1991
+  },
+  {
+    "ItemName": "Growing Gilt",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1622227944",
+    "DyeIndex": 17329
+  },
+  {
+    "ItemName": "Sinking Feeling",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1622227945",
+    "DyeIndex": 17314
+  },
+  {
+    "ItemName": "Empirical Imperative",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1622227946",
+    "DyeIndex": 17299
+  },
+  {
+    "ItemName": "Transcendental Ambition",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1622227947",
+    "DyeIndex": 17284
+  },
+  {
+    "ItemName": "Vanguard Magnus",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "223308216",
+    "DyeIndex": 1961
+  },
+  {
+    "ItemName": "Verdigris",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "915277994",
+    "DyeIndex": 9413
+  },
+  {
+    "ItemName": "Atlantic Rush",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "915277996",
+    "DyeIndex": 9443
+  },
+  {
+    "ItemName": "Chrome Stock",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "915277995",
+    "DyeIndex": 9428
+  },
+  {
+    "ItemName": "Reefmade",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "915277993",
+    "DyeIndex": 9398
+  },
+  {
+    "ItemName": "Warbrick",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "915277992",
+    "DyeIndex": 9383
+  },
+  {
+    "ItemName": "Bloody Tooth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "915277997",
+    "DyeIndex": 9458
+  },
+  {
+    "ItemName": "Burnished Orchid",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1821705877",
+    "DyeIndex": 7337
+  },
+  {
+    "ItemName": "Bold Statement",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1821705876",
+    "DyeIndex": 7322
+  },
+  {
+    "ItemName": "Distant Earth",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1821705878",
+    "DyeIndex": 7292
+  },
+  {
+    "ItemName": "Glacial Whisper",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1821705879",
+    "DyeIndex": 7307
+  },
+  {
+    "ItemName": "Crucible Triumph",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2361935691",
+    "DyeIndex": 6046
+  },
+  {
+    "ItemName": "Sanguine Splash",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3358389466",
+    "DyeIndex": 19430
+  },
+  {
+    "ItemName": "Golden Age Wine",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2885393052",
+    "DyeIndex": 11875
+  },
+  {
+    "ItemName": "Vibrant Medusa",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2885393053",
+    "DyeIndex": 11890
+  },
+  {
+    "ItemName": "Neopop Wave",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2885393055",
+    "DyeIndex": 11920
+  },
+  {
+    "ItemName": "Coppertone Patina",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2885393054",
+    "DyeIndex": 11905
+  },
+  {
+    "ItemName": "Burnished Dreams",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "3109957218",
+    "DyeIndex": 7157
+  },
+  {
+    "ItemName": "Blueshift Dreams",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3109957219",
+    "DyeIndex": 7172
+  },
+  {
+    "ItemName": "Malachite Gold",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3859483819",
+    "DyeIndex": 6700
+  },
+  {
+    "ItemName": "Blazing Virtue",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3859483818",
+    "DyeIndex": 6685
+  },
+  {
+    "ItemName": "Rosescale",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "434183443",
+    "DyeIndex": 14595
+  },
+  {
+    "ItemName": "(Adroit)",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1587251568",
+    "DyeIndex": 15764
+  },
+  {
+    "ItemName": "NotFound-47D2795B",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3403116796",
+    "DyeIndex": 2756
+  },
+  {
+    "ItemName": "Nessus Mirage",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3403116794",
+    "DyeIndex": 2726
+  },
+  {
+    "ItemName": "Nessus Pursuit (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3403116792",
+    "DyeIndex": 2696
+  },
+  {
+    "ItemName": "Nessus Pursuit",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3403116793",
+    "DyeIndex": 2681
+  },
+  {
+    "ItemName": "NotFound-C27F4589",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3403116795",
+    "DyeIndex": 2711
+  },
+  {
+    "ItemName": "Nessus Mirage (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3403116797",
+    "DyeIndex": 2741
+  },
+  {
+    "ItemName": "Amethyst Bloom",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1371145728",
+    "DyeIndex": 12694
+  },
+  {
+    "ItemName": "Laguna Cruiser",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1371145729",
+    "DyeIndex": 12679
+  },
+  {
+    "ItemName": "Nectar Dynamo",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1371145732",
+    "DyeIndex": 12634
+  },
+  {
+    "ItemName": "Carbon Blood",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1371145733",
+    "DyeIndex": 12619
+  },
+  {
+    "ItemName": "Copperbrand",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1371145734",
+    "DyeIndex": 12664
+  },
+  {
+    "ItemName": "Rustberry",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1371145735",
+    "DyeIndex": 12649
+  },
+  {
+    "ItemName": "Crucible Aspirant (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3450065536",
+    "DyeIndex": 2291
+  },
+  {
+    "ItemName": "Crucible Entrant (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3450065541",
+    "DyeIndex": 2246
+  },
+  {
+    "ItemName": "Crucible Entrant",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3450065540",
+    "DyeIndex": 2231
+  },
+  {
+    "ItemName": "Crucible Aspirant",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3450065543",
+    "DyeIndex": 2276
+  },
+  {
+    "ItemName": "Mars Sunset",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1017491632",
+    "DyeIndex": 6148
+  },
+  {
+    "ItemName": "Molten Bronze",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1017491633",
+    "DyeIndex": 6133
+  },
+  {
+    "ItemName": "Ancient Republic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1017491634",
+    "DyeIndex": 6178
+  },
+  {
+    "ItemName": "Buffer Overflow",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1017491636",
+    "DyeIndex": 6209
+  },
+  {
+    "ItemName": "Cargulo Bristle",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1017491635",
+    "DyeIndex": 6163
+  },
+  {
+    "ItemName": "Petiolora Growth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1017491637",
+    "DyeIndex": 6193
+  },
+  {
+    "ItemName": "Rusted Iron",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2448092902",
+    "DyeIndex": 7112
+  },
+  {
+    "ItemName": "Skele-Ghaul",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1005594230",
+    "DyeIndex": 10834
+  },
+  {
+    "ItemName": "Basalt Toxic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1005594231",
+    "DyeIndex": 10849
+  },
+  {
+    "ItemName": "Grand Luster",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3004379087",
+    "DyeIndex": 14127
+  },
+  {
+    "ItemName": "Iron Fuchsite",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2982947772",
+    "DyeIndex": 11227
+  },
+  {
+    "ItemName": "Omolon Meteor",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "700322568",
+    "DyeIndex": 2111
+  },
+  {
+    "ItemName": "Omolon Camo",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "700322570",
+    "DyeIndex": 2141
+  },
+  {
+    "ItemName": "Omnichronia",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "208045061",
+    "DyeIndex": 14097
+  },
+  {
+    "ItemName": "Continuum Alloy",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "208045060",
+    "DyeIndex": 14112
+  },
+  {
+    "ItemName": "Aposematism",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "208045062",
+    "DyeIndex": 14082
+  },
+  {
+    "ItemName": "Boreal Char",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "208045063",
+    "DyeIndex": 14067
+  },
+  {
+    "ItemName": "Mercury Prophetic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3853609171",
+    "DyeIndex": 4818
+  },
+  {
+    "ItemName": "NotFound-1AD40F65",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1298682514",
+    "DyeIndex": 1616
+  },
+  {
+    "ItemName": "NotFound-A552FD61",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "1298682515",
+    "DyeIndex": 1601
+  },
+  {
+    "ItemName": "Testudo",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2320367074",
+    "DyeIndex": 13413
+  },
+  {
+    "ItemName": "Crucible Carmine",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3928440584",
+    "DyeIndex": 10226
+  },
+  {
+    "ItemName": "Crucible Redjack",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3928440585",
+    "DyeIndex": 10241
+  },
+  {
+    "ItemName": "Armatura",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2320367075",
+    "DyeIndex": 13398
+  },
+  {
+    "ItemName": "Dreamweaver",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "179876902",
+    "DyeIndex": 20035
+  },
+  {
+    "ItemName": "Valor at Dusk",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "179876903",
+    "DyeIndex": 20020
+  },
+  {
+    "ItemName": "Häkke History",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "2737886288",
+    "DyeIndex": 2051
+  },
+  {
+    "ItemName": "Häkke Camo",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "2737886290",
+    "DyeIndex": 2081
+  },
+  {
+    "ItemName": "Häkke History Polish",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563760",
+    "DyeIndex": 2861
+  },
+  {
+    "ItemName": "SUROS Modular Shine",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563761",
+    "DyeIndex": 2876
+  },
+  {
+    "ItemName": "Omolon Meteor Gloss",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563762",
+    "DyeIndex": 2831
+  },
+  {
+    "ItemName": "Noble Constant Red",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563764",
+    "DyeIndex": 2801
+  },
+  {
+    "ItemName": "VEIST Poison Shimmer",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563763",
+    "DyeIndex": 2846
+  },
+  {
+    "ItemName": "Frumious Blue",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563766",
+    "DyeIndex": 2771
+  },
+  {
+    "ItemName": "Vanguard Magnus Gloss",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563765",
+    "DyeIndex": 2816
+  },
+  {
+    "ItemName": "Midnight Talons",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563767",
+    "DyeIndex": 2786
+  },
+  {
+    "ItemName": "Tarnished Copper",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563774",
+    "DyeIndex": 2891
+  },
+  {
+    "ItemName": "Xenosilver",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1284563775",
+    "DyeIndex": 2906
+  },
+  {
+    "ItemName": "NotFound-E17E2CB0",
+    "ItemType": "Shader",
+    "ItemRarity": 5,
+    "ItemHash": "1746378837",
+    "DyeIndex": 16883
+  },
+  {
+    "ItemName": "Hearts of Gold",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "171635528",
+    "DyeIndex": 18836
+  },
+  {
+    "ItemName": "Argent Champion",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "171635530",
+    "DyeIndex": 18866
+  },
+  {
+    "ItemName": "Principled Porphyry",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "171635529",
+    "DyeIndex": 18851
+  },
+  {
+    "ItemName": "Gambit Duds",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3217477988",
+    "DyeIndex": 8361
+  },
+  {
+    "ItemName": "Crucible Vermillion",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1392223752",
+    "DyeIndex": 10699
+  },
+  {
+    "ItemName": "Crucible Lazurite",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1392223753",
+    "DyeIndex": 10684
+  },
+  {
+    "ItemName": "Triumphant Keepsake",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "195075336",
+    "DyeIndex": 15734
+  },
+  {
+    "ItemName": "Gleaming Keepsake",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "195075337",
+    "DyeIndex": 15719
+  },
+  {
+    "ItemName": "Scaly Keepsake",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "195075339",
+    "DyeIndex": 15749
+  },
+  {
+    "ItemName": "Lucid",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2776737688",
+    "DyeIndex": 15452
+  },
+  {
+    "ItemName": "Trinity",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2776737689",
+    "DyeIndex": 15467
+  },
+  {
+    "ItemName": "Royal Treatment",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2776737690",
+    "DyeIndex": 15422
+  },
+  {
+    "ItemName": "Meditator",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2776737694",
+    "DyeIndex": 15482
+  },
+  {
+    "ItemName": "Time-Honored",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2776737691",
+    "DyeIndex": 15437
+  },
+  {
+    "ItemName": "Heat-Shielded",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2776737695",
+    "DyeIndex": 15497
+  },
+  {
+    "ItemName": "Celestia",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "912276057",
+    "DyeIndex": 12709
+  },
+  {
+    "ItemName": "Lighthouse Sun",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2266613161",
+    "DyeIndex": 11302
+  },
+  {
+    "ItemName": "Arboreal Refuge",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1930161380",
+    "DyeIndex": 18773
+  },
+  {
+    "ItemName": "Refined Revels",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1930161381",
+    "DyeIndex": 18788
+  },
+  {
+    "ItemName": "Iron Vendetta",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3176983014",
+    "DyeIndex": 12928
+  },
+  {
+    "ItemName": "Dark Fluorescence",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4224972854",
+    "DyeIndex": 8151
+  },
+  {
+    "ItemName": "Shadowstrike",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4224972855",
+    "DyeIndex": 8166
+  },
+  {
+    "ItemName": "Golden Trace",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869472",
+    "DyeIndex": 2996
+  },
+  {
+    "ItemName": "Monochromatic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869473",
+    "DyeIndex": 2981
+  },
+  {
+    "ItemName": "Cerulean Divide",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869474",
+    "DyeIndex": 3026
+  },
+  {
+    "ItemName": "Nebula Rose",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869475",
+    "DyeIndex": 3011
+  },
+  {
+    "ItemName": "Metro Shift",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869476",
+    "DyeIndex": 2936
+  },
+  {
+    "ItemName": "Dawn and Dusk",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869477",
+    "DyeIndex": 2921
+  },
+  {
+    "ItemName": "Watermelon",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869479",
+    "DyeIndex": 2951
+  },
+  {
+    "ItemName": "Arctic Pearl",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869478",
+    "DyeIndex": 2966
+  },
+  {
+    "ItemName": "Indigo Matrix",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869484",
+    "DyeIndex": 3056
+  },
+  {
+    "ItemName": "Bumblebee",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3205869485",
+    "DyeIndex": 3041
+  },
+  {
+    "ItemName": "Clinging Cobweb",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2355278665",
+    "DyeIndex": 19340
+  },
+  {
+    "ItemName": "Roseate Gleam",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2355278664",
+    "DyeIndex": 19325
+  },
+  {
+    "ItemName": "Midnight Exigent",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "737170668",
+    "DyeIndex": 11755
+  },
+  {
+    "ItemName": "Valkyrie Zero",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "737170669",
+    "DyeIndex": 11770
+  },
+  {
+    "ItemName": "Always North",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1263710510",
+    "DyeIndex": 7547
+  },
+  {
+    "ItemName": "Beneficence",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2721907666",
+    "DyeIndex": 17359
+  },
+  {
+    "ItemName": "Noble Rime",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2721907667",
+    "DyeIndex": 17344
+  },
+  {
+    "ItemName": "Prime Palette",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3735277403",
+    "DyeIndex": 9353
+  },
+  {
+    "ItemName": "Scarlet Semblance",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1443620695",
+    "DyeIndex": 17036
+  },
+  {
+    "ItemName": "Gambit Emerald",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1359616732",
+    "DyeIndex": 10519
+  },
+  {
+    "ItemName": "Gambit Celadon",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1359616733",
+    "DyeIndex": 10534
+  },
+  {
+    "ItemName": "Tangled Bronze",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1226584229",
+    "DyeIndex": 7202
+  },
+  {
+    "ItemName": "Tangled Rust",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1226584228",
+    "DyeIndex": 7187
+  },
+  {
+    "ItemName": "Crucible Alizarin",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "247978378",
+    "DyeIndex": 16406
+  },
+  {
+    "ItemName": "Kilted Out",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3154194046",
+    "DyeIndex": 20365
+  },
+  {
+    "ItemName": "Dawning Hope",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "269339124",
+    "DyeIndex": 4858
+  },
+  {
+    "ItemName": "Crimson Valor",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1052553862",
+    "DyeIndex": 4918
+  },
+  {
+    "ItemName": "Crimson Passion",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1052553863",
+    "DyeIndex": 4903
+  },
+  {
+    "ItemName": "Rivalry Stoic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2213649830",
+    "DyeIndex": 11830
+  },
+  {
+    "ItemName": "Rivalry Resolute",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2213649831",
+    "DyeIndex": 11815
+  },
+  {
+    "ItemName": "Ferrous Silver",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2235726550",
+    "DyeIndex": 18163
+  },
+  {
+    "ItemName": "Praetorian Visage",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2543722796",
+    "DyeIndex": 6016
+  },
+  {
+    "ItemName": "Calus's Shadow",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2543722797",
+    "DyeIndex": 6031
+  },
+  {
+    "ItemName": "Fright Night",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2233576420",
+    "DyeIndex": 10669
+  },
+  {
+    "ItemName": "Dawning Elegance",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "466236950",
+    "DyeIndex": 11317
+  },
+  {
+    "ItemName": "Dawning Welcome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "466236951",
+    "DyeIndex": 11332
+  },
+  {
+    "ItemName": "Pulp Texture",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1214401677",
+    "DyeIndex": 17021
+  },
+  {
+    "ItemName": "Shrouded Stripes",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "690228054",
+    "DyeIndex": 9048
+  },
+  {
+    "ItemName": "Redjacked",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "233502397",
+    "DyeIndex": 15668
+  },
+  {
+    "ItemName": "Full-Throated Roar",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "949483981",
+    "DyeIndex": 20320
+  },
+  {
+    "ItemName": "Joyful Gift",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1997760146",
+    "DyeIndex": 17497
+  },
+  {
+    "ItemName": "Hoarfrost Sunrise",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1997760147",
+    "DyeIndex": 17482
+  },
+  {
+    "ItemName": "Oiled Algae",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "261886690",
+    "DyeIndex": 13108
+  },
+  {
+    "ItemName": "Vintage Timber",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "261886691",
+    "DyeIndex": 13093
+  },
+  {
+    "ItemName": "First Light",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1363705632",
+    "DyeIndex": 10136
+  },
+  {
+    "ItemName": "Amethyst Veil",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1363705634",
+    "DyeIndex": 10106
+  },
+  {
+    "ItemName": "Atmospheric Glow",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1363705633",
+    "DyeIndex": 10121
+  },
+  {
+    "ItemName": "Coastal Suede",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1363705635",
+    "DyeIndex": 10091
+  },
+  {
+    "ItemName": "Royal Welcome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1363705639",
+    "DyeIndex": 10151
+  },
+  {
+    "ItemName": "Cursed Azure",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1869315389",
+    "DyeIndex": 16838
+  },
+  {
+    "ItemName": "Whispered Sheen",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1869315390",
+    "DyeIndex": 16853
+  },
+  {
+    "ItemName": "Breezy Clear",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1869315391",
+    "DyeIndex": 16868
+  },
+  {
+    "ItemName": "Ravensilk",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1869315388",
+    "DyeIndex": 16823
+  },
+  {
+    "ItemName": "Benevolence of the Nine",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3327512302",
+    "DyeIndex": 4593
+  },
+  {
+    "ItemName": "Plated Lupinus",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1920421334",
+    "DyeIndex": 14610
+  },
+  {
+    "ItemName": "Small Luminance",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "826128643",
+    "DyeIndex": 17374
+  },
+  {
+    "ItemName": "Luminous Void",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3236196104",
+    "DyeIndex": 19370
+  },
+  {
+    "ItemName": "Highlander",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3236196105",
+    "DyeIndex": 19355
+  },
+  {
+    "ItemName": "Gamekeeper",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3236196106",
+    "DyeIndex": 19400
+  },
+  {
+    "ItemName": "Coleoptera",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3236196107",
+    "DyeIndex": 19385
+  },
+  {
+    "ItemName": "Canis Coat",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3873834914",
+    "DyeIndex": 14202
+  },
+  {
+    "ItemName": "War Weary",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4166922308",
+    "DyeIndex": 13563
+  },
+  {
+    "ItemName": "Photo Finish",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2450544934",
+    "DyeIndex": 15527
+  },
+  {
+    "ItemName": "Peat Bog Boogie",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "117960780",
+    "DyeIndex": 13458
+  },
+  {
+    "ItemName": "Cobalt Clash",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3110332187",
+    "DyeIndex": 14565
+  },
+  {
+    "ItemName": "Perfectly Balanced",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3633144314",
+    "DyeIndex": 18806
+  },
+  {
+    "ItemName": "Malibeaux Bronze",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2214585028",
+    "DyeIndex": 15152
+  },
+  {
+    "ItemName": "Polycarbon Powder",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2214585029",
+    "DyeIndex": 15137
+  },
+  {
+    "ItemName": "Solar Shrapnel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4279097964",
+    "DyeIndex": 18713
+  },
+  {
+    "ItemName": "Aquatic Iridescence",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4279097966",
+    "DyeIndex": 18743
+  },
+  {
+    "ItemName": "Dreamcycle",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4279097965",
+    "DyeIndex": 18728
+  },
+  {
+    "ItemName": "Methane Explorer",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4279097967",
+    "DyeIndex": 18758
+  },
+  {
+    "ItemName": "Crucible Solemnity",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2588739576",
+    "DyeIndex": 7382
+  },
+  {
+    "ItemName": "Crucible Legacy",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "2588739578",
+    "DyeIndex": 7352
+  },
+  {
+    "ItemName": "Crucible Metallic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2588739579",
+    "DyeIndex": 7367
+  },
+  {
+    "ItemName": "Crucible Glory",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "3875413893",
+    "DyeIndex": 1751
+  },
+  {
+    "ItemName": "Amaranth Atrocity",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "566732136",
+    "DyeIndex": 8123
+  },
+  {
+    "ItemName": "Alchemy Scorch",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "373634602",
+    "DyeIndex": 13153
+  },
+  {
+    "ItemName": "Mesopelagic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "99900185",
+    "DyeIndex": 18635
+  },
+  {
+    "ItemName": "Epipelagic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "99900184",
+    "DyeIndex": 18650
+  },
+  {
+    "ItemName": "Colubrid Forester",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2810509977",
+    "DyeIndex": 17422
+  },
+  {
+    "ItemName": "Dawning Panache",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "814520772",
+    "DyeIndex": 20335
+  },
+  {
+    "ItemName": "Paragon",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1619668808",
+    "DyeIndex": 15653
+  },
+  {
+    "ItemName": "Vanguard Discipline",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "822835819",
+    "DyeIndex": 4728
+  },
+  {
+    "ItemName": "Eventide Cheer",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2696974648",
+    "DyeIndex": 12559
+  },
+  {
+    "ItemName": "Shimmerfoil",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2696974651",
+    "DyeIndex": 12574
+  },
+  {
+    "ItemName": "Goldjay",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2696974649",
+    "DyeIndex": 12544
+  },
+  {
+    "ItemName": "Endless Glory",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "87646118",
+    "DyeIndex": 4608
+  },
+  {
+    "ItemName": "Gloamstrife",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1046971208",
+    "DyeIndex": 13078
+  },
+  {
+    "ItemName": "Jacarina",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1046971209",
+    "DyeIndex": 13063
+  },
+  {
+    "ItemName": "Biolume",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1046971210",
+    "DyeIndex": 13048
+  },
+  {
+    "ItemName": "Butterbark",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1046971211",
+    "DyeIndex": 13033
+  },
+  {
+    "ItemName": "Speartip",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2898603256",
+    "DyeIndex": 20305
+  },
+  {
+    "ItemName": "Lichen Crown",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "726145097",
+    "DyeIndex": 13428
+  },
+  {
+    "ItemName": "Brineglow",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4043930251",
+    "DyeIndex": 12604
+  },
+  {
+    "ItemName": "Rivalry Blacksand",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2171727442",
+    "DyeIndex": 11860
+  },
+  {
+    "ItemName": "Rivalry Whitesand",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2171727443",
+    "DyeIndex": 11845
+  },
+  {
+    "ItemName": "Sharkbite",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1091411796",
+    "DyeIndex": 15122
+  },
+  {
+    "ItemName": "Justified Cobalt",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1091411797",
+    "DyeIndex": 15107
+  },
+  {
+    "ItemName": "Prizewinner",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "211863483",
+    "DyeIndex": 20527
+  },
+  {
+    "ItemName": "Pyretic Clash",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "179465689",
+    "DyeIndex": 13548
+  },
+  {
+    "ItemName": "Lunar Gloom",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2056256565",
+    "DyeIndex": 10654
+  },
+  {
+    "ItemName": "Lunar Halcyon Gilt",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2056256564",
+    "DyeIndex": 10639
+  },
+  {
+    "ItemName": "Anyone's Game",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3446862222",
+    "DyeIndex": 13518
+  },
+  {
+    "ItemName": "Nailbiter",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3446862223",
+    "DyeIndex": 13533
+  },
+  {
+    "ItemName": "Venomous",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2342965008",
+    "DyeIndex": 15623
+  },
+  {
+    "ItemName": "Dead Zone Foliage",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3921006352",
+    "DyeIndex": 2411
+  },
+  {
+    "ItemName": "Iron Precious",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1385647483",
+    "DyeIndex": 11740
+  },
+  {
+    "ItemName": "Dead Zone Foliage (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3921006353",
+    "DyeIndex": 2426
+  },
+  {
+    "ItemName": "NotFound-C27F4589",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3921006354",
+    "DyeIndex": 2441
+  },
+  {
+    "ItemName": "Dead Zone Bark",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3921006355",
+    "DyeIndex": 2456
+  },
+  {
+    "ItemName": "Dead Zone Bark (Worn)",
+    "ItemType": "Shader",
+    "ItemRarity": 2,
+    "ItemHash": "3921006356",
+    "DyeIndex": 2471
+  },
+  {
+    "ItemName": "Safety First",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2815102888",
+    "DyeIndex": 7462
+  },
+  {
+    "ItemName": "Flavedo Core",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2815102889",
+    "DyeIndex": 7477
+  },
+  {
+    "ItemName": "Melchizedek Bramble",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2815102891",
+    "DyeIndex": 7447
+  },
+  {
+    "ItemName": "Smashing Success",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2815102890",
+    "DyeIndex": 7432
+  },
+  {
+    "ItemName": "Forty-Four Steel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2815102892",
+    "DyeIndex": 7522
+  },
+  {
+    "ItemName": "Celestial Dome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2815102895",
+    "DyeIndex": 7507
+  },
+  {
+    "ItemName": "Metropolitan Acoustics",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2815102894",
+    "DyeIndex": 7492
+  },
+  {
+    "ItemName": "Calus's Preferred",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4242407216",
+    "DyeIndex": 4578
+  },
+  {
+    "ItemName": "Calus's Elite",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4242407217",
+    "DyeIndex": 4563
+  },
+  {
+    "ItemName": "Raw Idocrase",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2207282210",
+    "DyeIndex": 11725
+  },
+  {
+    "ItemName": "Headless Hues",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "511117849",
+    "DyeIndex": 14580
+  },
+  {
+    "ItemName": "Iron Ruby",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1987234560",
+    "DyeIndex": 9368
+  },
+  {
+    "ItemName": "3 Connections",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3554810766",
+    "DyeIndex": 15779
+  },
+  {
+    "ItemName": "Grayscale Undergrowth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3906243540",
+    "DyeIndex": 11422
+  },
+  {
+    "ItemName": "Welded Brass",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3906243541",
+    "DyeIndex": 11407
+  },
+  {
+    "ItemName": "Byzantium Lotus",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3906243542",
+    "DyeIndex": 11452
+  },
+  {
+    "ItemName": "Circadian Chill",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3906243543",
+    "DyeIndex": 11437
+  },
+  {
+    "ItemName": "Vanguard Nightbeam",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3373970267",
+    "DyeIndex": 11362
+  },
+  {
+    "ItemName": "Crucible Horizon",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3041031340",
+    "DyeIndex": 18289
+  },
+  {
+    "ItemName": "Gilded Smoke",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1948818058",
+    "DyeIndex": 12364
+  },
+  {
+    "ItemName": "Gilded Frost",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1948818059",
+    "DyeIndex": 12379
+  },
+  {
+    "ItemName": "New Monarchy Regalia",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1206746478",
+    "DyeIndex": 1931
+  },
+  {
+    "ItemName": "New Monarchy Diamonds",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1206746476",
+    "DyeIndex": 1901
+  },
+  {
+    "ItemName": "Gambit Gleam",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "817683657",
+    "DyeIndex": 18145
+  },
+  {
+    "ItemName": "Envious Gaze",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2877895744",
+    "DyeIndex": 20095
+  },
+  {
+    "ItemName": "Darkwater Froth",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2471702600",
+    "DyeIndex": 11800
+  },
+  {
+    "ItemName": "Silver Tactical",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2471702601",
+    "DyeIndex": 11785
+  },
+  {
+    "ItemName": "Gambit Steel",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2224920149",
+    "DyeIndex": 10166
+  },
+  {
+    "ItemName": "Deep-Sea Jaunt",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2644588986",
+    "DyeIndex": 9002
+  },
+  {
+    "ItemName": "Gambit Blackguard",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2224920148",
+    "DyeIndex": 10181
+  },
+  {
+    "ItemName": "Temperature Wash",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2644588987",
+    "DyeIndex": 8987
+  },
+  {
+    "ItemName": "Lilac Bombast",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2644588988",
+    "DyeIndex": 8972
+  },
+  {
+    "ItemName": "Chalco's Finery",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2644588990",
+    "DyeIndex": 8942
+  },
+  {
+    "ItemName": "Sunrise Warrior",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2644588991",
+    "DyeIndex": 8927
+  },
+  {
+    "ItemName": "Vibrant Beach",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2644588989",
+    "DyeIndex": 8957
+  },
+  {
+    "ItemName": "Dead Orbit Resurrection",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1106615806",
+    "DyeIndex": 4623
+  },
+  {
+    "ItemName": "Ultra Plasmic",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4198761575",
+    "DyeIndex": 15197
+  },
+  {
+    "ItemName": "Skitchpaint",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4198761574",
+    "DyeIndex": 15182
+  },
+  {
+    "ItemName": "Biochrome Oasis",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1498689021",
+    "DyeIndex": 20080
+  },
+  {
+    "ItemName": "Verdant Chrome",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1914989541",
+    "DyeIndex": 9473
+  },
+  {
+    "ItemName": "Verdant Crown",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1914989540",
+    "DyeIndex": 9488
+  },
+  {
+    "ItemName": "Crimson Valor",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2112889975",
+    "DyeIndex": 4918
+  },
+  {
+    "ItemName": "Dawning Brilliance",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2623660327",
+    "DyeIndex": 4843
+  },
+  {
+    "ItemName": "Gunmetal Marigold",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1402284586",
+    "DyeIndex": 11272
+  },
+  {
+    "ItemName": "Regal Medallion",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1402284587",
+    "DyeIndex": 11287
+  },
+  {
+    "ItemName": "Stalwart Tenet",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1216139473",
+    "DyeIndex": 17467
+  },
+  {
+    "ItemName": "Lawful Neutral",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2086800026",
+    "DyeIndex": 12469
+  },
+  {
+    "ItemName": "Horizon Blush",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2086800027",
+    "DyeIndex": 12484
+  },
+  {
+    "ItemName": "Calus's Selected",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1422712818",
+    "DyeIndex": 1466
+  },
+  {
+    "ItemName": "Calus's Treasured",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1422712819",
+    "DyeIndex": 1481
+  },
+  {
+    "ItemName": "Dead Orbit's Fate",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1841451177",
+    "DyeIndex": 1781
+  },
+  {
+    "ItemName": "Dead Orbit Camo",
+    "ItemType": "Shader",
+    "ItemRarity": 3,
+    "ItemHash": "1841451179",
+    "DyeIndex": 1811
+  },
+  {
+    "ItemName": "Burnished Acclaim",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "4048242887",
+    "DyeIndex": 18271
+  },
+  {
+    "ItemName": "Combative Tanager",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "3110493660",
+    "DyeIndex": 17452
+  },
+  {
+    "ItemName": "Crimson Passion",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "167651268",
+    "DyeIndex": 4903
+  },
+  {
+    "ItemName": "Ruinous Clash",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "816686753",
+    "DyeIndex": 15638
+  },
+  {
+    "ItemName": "Shared Experience",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "1893992073",
+    "DyeIndex": -1
+  },
+  {
+    "ItemName": "Imperial Opulence",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2027598066",
+    "DyeIndex": 10071
+  },
+  {
+    "ItemName": "Imperial Dress",
+    "ItemType": "Shader",
+    "ItemRarity": 4,
+    "ItemHash": "2027598067",
+    "DyeIndex": 10086
+  }
+]

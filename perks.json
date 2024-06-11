@@ -2583,6 +2583,7 @@
     "name": "Once More",
     "description": "Reloading increases this weapon's damage if you hit with at least half the rounds in the magazine, but fail to defeat anything.",
     "perkIndex": 1349,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -2627,10 +2628,10 @@
     "itemHash": "333967829"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Arm's Reach",
+    "description": "In \"Salvation's Edge,\" gain bonus Super energy when defeating a combatant near a limb of the Witness.",
     "perkIndex": 3778,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/b577dfc78b4c816d425f69a6f214e18c.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -7667,18 +7668,6 @@
     "itemHash": "1002811200"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
-    "perkIndex": 3821,
-    "icon": "/img/misc/missing_icon_d2.png",
-    "dyeIndex": -1,
-    "patternIndex": -1,
-    "artArrangementIndex": -1,
-    "itemRarity": -1,
-    "itemType": "Perk",
-    "itemHash": "1003602927"
-  },
-  {
     "name": "Disruption Break",
     "description": "Breaking a combatant's shield with this weapon makes them more vulnerable to Kinetic damage for an improved duration.",
     "perkIndex": 1246,
@@ -9131,10 +9120,10 @@
     "itemHash": "1209506097"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Persistent Resonance",
+    "description": "In \"Salvation's Edge,\" create orbs when depositing Resonance.",
     "perkIndex": 3777,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/1f6244e55b04cbe584158dbfcb033b25.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -11963,10 +11952,10 @@
     "itemHash": "1552559776"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Necrotic",
+    "description": "Melees cause damage over time.",
     "perkIndex": 3786,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/4c1a349c2723d3aa84598da98c7a8805.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -11975,10 +11964,10 @@
     "itemHash": "1553686800"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Osmiomancy",
+    "description": "Improves grenades.",
     "perkIndex": 3788,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/81b6412d2d6784891dd7ddad764891cc.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -11987,10 +11976,10 @@
     "itemHash": "1553686801"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Harmony",
+    "description": "Weapon final blows grant Super energy.",
     "perkIndex": 3784,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/675540240cef9fc9e047d9f9d20a0722.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -11999,10 +11988,10 @@
     "itemHash": "1553686802"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Filaments",
+    "description": "Empowering Rifts grant you Devour.",
     "perkIndex": 3785,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/1d4c0be6150c4ca71bc7add447c5d86c.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -12011,10 +12000,10 @@
     "itemHash": "1553686803"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Stag",
+    "description": "Rifts provides damage reduction.",
     "perkIndex": 3791,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/c4f95301370c59ab4d7ce34825e83305.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -12023,10 +12012,10 @@
     "itemHash": "1553686804"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Starfire",
+    "description": "Empowered weapon damage recharges grenades.",
     "perkIndex": 3792,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/18c3e0503b1c9cd823dde3ded3680f8d.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -12035,10 +12024,10 @@
     "itemHash": "1553686805"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Apotheosis",
+    "description": "Gain melee and grenade regeneration after your Super ends.",
     "perkIndex": 3789,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/5ca9d0fa8f6c97999ac5927c679401af.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -12047,10 +12036,10 @@
     "itemHash": "1553686806"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Vesper",
+    "description": "Rifts periodically release Arc shockwaves.",
     "perkIndex": 3790,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/ff55cfecf4c70924d0894b1d8a442a18.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -12059,10 +12048,10 @@
     "itemHash": "1553686807"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Swarm",
+    "description": "Tangles spawn Threadlings.",
     "perkIndex": 3793,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/2c51c7358ab1de58c11edc89b5573e84.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -12071,10 +12060,10 @@
     "itemHash": "1553686810"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Claw",
+    "description": "Gain an additional melee charge.",
     "perkIndex": 3794,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/569a1a4cbdd7a014159ebdf304c8a9b5.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -15911,10 +15900,10 @@
     "itemHash": "2000957916"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Collective Purpose",
+    "description": "Gain bonus range and handling when near allies. Bows receive faster draw time and Swords receive faster charge rate. The effect scales with the number of nearby allies.",
     "perkIndex": 3760,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/dfab734b94160f9b0a20750261ded57a.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -16514,6 +16503,7 @@
     "name": "Arc Synergy",
     "description": "This armor piece adds +2 to your overall Power and +20% damage with Arc weapons against combatant shields when you have an Arc subclass equipped.",
     "perkIndex": 1654,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -16573,6 +16563,7 @@
     "name": "Arc Synergy",
     "description": "This armor piece adds +1 to your overall Power and +10% damage with Arc weapons against combatant shields when you have an Arc subclass equipped.",
     "perkIndex": 1653,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -17472,6 +17463,7 @@
     "name": "Effect lasts for 30 minutes.",
     "description": "Effect lasts for 30 minutes.",
     "perkIndex": 1326,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -19451,6 +19443,7 @@
     "name": "Hailstorm",
     "description": "Kills increase this weapon's damage and begin to steadily reload the magazine from reserves until you stop firing.",
     "perkIndex": 1350,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20887,10 +20880,10 @@
     "itemHash": "2640961053"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Caliban",
+    "description": "Powered melee final blows trigger an ignition.",
     "perkIndex": 3798,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/cd66bbfb633d559d5c42c6c85e1d6873.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20899,10 +20892,10 @@
     "itemHash": "2644022224"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Foetracer",
+    "description": "Abilities grant bonus weapon damage.",
     "perkIndex": 3797,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/c156b7906217d8b61e7573f9c9cc2dc7.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20911,10 +20904,10 @@
     "itemHash": "2644022225"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Galanor",
+    "description": "Super hits return Super energy.",
     "perkIndex": 3796,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/467f441de1568bd8c6ad437a76671b5f.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20923,10 +20916,10 @@
     "itemHash": "2644022226"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Dragon",
+    "description": "Using your class ability reloads and improves weapons.",
     "perkIndex": 3795,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/100cd6b35af5fb3f979807d68ad57380.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20935,10 +20928,10 @@
     "itemHash": "2644022227"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Liar",
+    "description": "Counterpunch deals extra damage.",
     "perkIndex": 3802,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/71a75146e38ba257b7379af0efacd61f.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20947,10 +20940,10 @@
     "itemHash": "2644022228"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Gyrfalcon",
+    "description": "Gain volatile rounds after being invisible.",
     "perkIndex": 3801,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/bd7a131851dd9dad2da3e9f198f67f6e.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20959,10 +20952,10 @@
     "itemHash": "2644022229"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Cyrtarachne",
+    "description": "Grenades grant Woven Mail.",
     "perkIndex": 3800,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/358bc75bc96bdadc33cc25d864848de4.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20971,10 +20964,10 @@
     "itemHash": "2644022230"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Renewal",
+    "description": "Improves Duskfield grenades.",
     "perkIndex": 3799,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/47fd782cc9b993709e25ca66035d13b8.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20983,10 +20976,10 @@
     "itemHash": "2644022231"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Coyote",
+    "description": "Gain an additional class ability charge.",
     "perkIndex": 3804,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/aa2934eb8a1990f6a1e76402ba12f26a.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -20995,10 +20988,10 @@
     "itemHash": "2644022234"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Wormhusk",
+    "description": "Dodging heals you.",
     "perkIndex": 3803,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/16f43c6fbb972bdc24764a59aacc8161.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -21958,6 +21951,7 @@
     "name": "4 Hours",
     "description": "Effect lasts for 4 hours.",
     "perkIndex": 285,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22182,10 +22176,10 @@
     "itemHash": "2810401314"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Hoarfrost",
+    "description": "Replace Barricade with a wall of Stasis crystals.",
     "perkIndex": 3806,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/f093d552bec2248e94fed1a960d62dde.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22194,10 +22188,10 @@
     "itemHash": "2810944064"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Severance",
+    "description": "Powered melee final blows and finishers unleash explosions.",
     "perkIndex": 3805,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/baed176aaf20399a3abb8b287790747a.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22206,10 +22200,10 @@
     "itemHash": "2810944065"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Abeyant",
+    "description": "Improves Drengr's Lash.",
     "perkIndex": 3808,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/245108de9d46cabc0ca3f16c665321dd.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22218,10 +22212,10 @@
     "itemHash": "2810944066"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Eternal Warrior",
+    "description": "Gain bonus weapon damage when your Super ends.",
     "perkIndex": 3807,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/abaff19620ec578f1f379a359de7134c.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22230,10 +22224,10 @@
     "itemHash": "2810944067"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Contact",
+    "description": "Powered melee damage causes lightning strikes.",
     "perkIndex": 3810,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/a4ead8e3316d22dbb9fc48e6c643dde3.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22242,10 +22236,10 @@
     "itemHash": "2810944068"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Bear",
+    "description": "Improves Unbreakable.",
     "perkIndex": 3809,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/c792f09ce9d03c03064724af10be0349.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22254,10 +22248,10 @@
     "itemHash": "2810944069"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Horn",
+    "description": "Barricades unleash a Solar blast.",
     "perkIndex": 3812,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/784bd1d46cc9bd60e1d510e915aedb04.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22266,10 +22260,10 @@
     "itemHash": "2810944070"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Scars",
+    "description": "Weapon final blows heal allies.",
     "perkIndex": 3811,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/811e014f935edafdc52042602ca2429d.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22278,10 +22272,10 @@
     "itemHash": "2810944071"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Armamentarium",
+    "description": "Gain an additional grenade charge.",
     "perkIndex": 3814,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/87ed6eb97c923d6a8d0e14639f4b7791.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -22290,10 +22284,10 @@
     "itemHash": "2810944072"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Alpha Lupi",
+    "description": "Casting Barricade heals you and nearby allies.",
     "perkIndex": 3813,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/a5c5979f3630735a03bee7f2d32e9043.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -23613,6 +23607,7 @@
     "name": "Health Overload",
     "description": "",
     "perkIndex": 1567,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -25361,10 +25356,10 @@
     "itemHash": "3212814495"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "High-Tier Elimination",
+    "description": "In \"Salvation's Edge,\" gain bonus ability energy when defeating challenging combatants or higher.",
     "perkIndex": 3779,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/e6d6c05a7a9ea8a021546cffb6f5d7e7.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -25589,10 +25584,10 @@
     "itemHash": "3229151907"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Chaos Reshaped",
+    "description": "This weapon gains bonus damage while in combat for an extended time. Remaining in combat for even longer rewards a larger damage bonus and periodically heals the wielder.",
     "perkIndex": 3743,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/9570c12a7c71062dd668f519c977fc22.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -26453,10 +26448,10 @@
     "itemHash": "3337820677"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Electrified Conductor",
+    "description": "In \"Salvation's Edge,\" receive a large amount of Special ammo when charging a conductor.",
     "perkIndex": 3780,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/a74b6f7e04f58246b06e29ae3e1f5e4d.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -27917,10 +27912,10 @@
     "itemHash": "3465078199"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Synthoceps",
+    "description": "Improves melee damage when you're surrounded.",
     "perkIndex": 3819,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/640d76fb6ab52e290116455379194b07.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -27929,10 +27924,10 @@
     "itemHash": "3465434112"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Verity",
+    "description": "Weapon final blows grant grenade damage.",
     "perkIndex": 3820,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/9732f284c71054229671287ab43444b7.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -27941,10 +27936,10 @@
     "itemHash": "3465434113"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Assassin",
+    "description": "Finishers and powered melee final blows grant invisibility.",
     "perkIndex": 3815,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/961559205e83e96cd590b34c28efadb7.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -27953,10 +27948,10 @@
     "itemHash": "3465434116"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of Inmost Light",
+    "description": "Using an ability empowers the other two abilities.",
     "perkIndex": 3816,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/51756fc7603bd72a83d1859d8c33f0b9.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -27965,10 +27960,10 @@
     "itemHash": "3465434117"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Ophidian",
+    "description": "Weapons ready very quickly.",
     "perkIndex": 3817,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/3945ff76d8e7ec70991cb0f6601c6797.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -27977,10 +27972,10 @@
     "itemHash": "3465434118"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Spirit of the Star-Eater",
+    "description": "Orbs of Power overcharge your Super.",
     "perkIndex": 3818,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/b29ab6e87ec85bac4563f3d3a432c451.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -29921,10 +29916,10 @@
     "itemHash": "3703952997"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Stacked",
+    "description": "In \"Salvation's Edge,\" final blows have an increased chance of spawning Heavy ammo while in possession of Resonance.",
     "perkIndex": 3776,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/4ef310b6b71fd0183b20db697679e018.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -30656,6 +30651,7 @@
     "name": "High Noon",
     "description": "Readying this weapon grants a brief period of bonus precision damage.",
     "perkIndex": 1143,
+    "icon": "/common/destiny2_content/icons/DestinyActivityModeDefinition_bfe80e3dafe6686a9dc42df0606bdc9b.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
@@ -32104,10 +32100,10 @@
     "itemHash": "3955302463"
   },
   {
-    "name": "Classified",
-    "description": "Keep it secret.  Keep it safe.",
+    "name": "Chaos Reshaped",
+    "description": "This weapon gains bonus damage while in combat for an extended time, activating faster. Remaining in combat for a slightly reduced duration rewards a larger damage bonus and periodically heals the wielder.",
     "perkIndex": 3744,
-    "icon": "/img/misc/missing_icon_d2.png",
+    "icon": "/common/destiny2_content/icons/9570c12a7c71062dd668f519c977fc22.png",
     "dyeIndex": -1,
     "patternIndex": -1,
     "artArrangementIndex": -1,
